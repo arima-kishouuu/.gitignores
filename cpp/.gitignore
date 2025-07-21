@@ -1,0 +1,26 @@
+# Ignore executable files
+*.exe
+*.out
+
+# Ignore object files and temporary compilation files
+*.o
+*.obj
+*.slo
+*.lo
+*.ilk
+*.pdb
+
+# Ignore build folders
+build/
+Debug/
+Release/
+bin/
+obj/
+
+# Ignore IDE/Editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj*
